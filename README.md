@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lauro299
+- 👋 Hi, I’m Lau
 - 👀 I’m interested in linux, kotlin tecnology and mobile platforms
 - 🌱 I’m currently learning kotlin-deeplearning
 - 💞️ I’m looking to collaborate on kotlin projects
